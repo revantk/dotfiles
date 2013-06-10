@@ -1,0 +1,6 @@
+.vim/*
+!.vim/bundles
+!.vim/compiler
+!.vim/syntax
+!.vim/colors
+!/vim/autoload
